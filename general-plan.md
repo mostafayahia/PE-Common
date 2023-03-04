@@ -3,7 +3,8 @@
 # == common ==
 - introduction & non-technical skills 
 - command line (git bash in windows & terminal in linux)
-- Git
+- Git part 1
+- Git part 2
 - Leaning platforms (edx, coursera, udacity & udemy)
 - DB
 - vscode IDE opensource
