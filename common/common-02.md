@@ -1,21 +1,21 @@
-#====== PE-Common-02 Git =============
+# == PE-Common-02 Git ==
 - Flash back (zsh, exit man command, man man)
 - why Git
 - Git commands
-  init
-  add
-  status
-  commit
-  checkout
-  remote
-  push
-  clone
-  branch
-  merge
-  fetch
-  pull
-  stash
-  stash pop
+  - init
+  - add
+  - status
+  - commit
+  - checkout
+  - remote
+  - push
+  - clone
+  - branch
+  - merge
+  - fetch
+  - pull
+  - stash
+  - stash pop
   
 - Git commit style
 - Git platforms (github, bitbucket, gitlab)
@@ -25,11 +25,11 @@
 - steps to avoid removing code of each other 
 - token instead of password in github
 
-#====== Description ==============
-Git Udacity Course:
+# == Description ==
+- Git Udacity Course:
     https://www.udacity.com/course/version-control-with-git--ud123
-Git commit style:
+- Git commit style:
     https://udacity.github.io/git-styleguide/
-Git repository:
+- Git repository:
     https://github.com/mostafayahia/PE-Common
 
