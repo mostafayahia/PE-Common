@@ -1,4 +1,5 @@
 # == PE-Common-02 Git ==
+## Outines
 - Flash back (zsh, exit man command, man man)
 - why Git
 - Git commands
@@ -25,7 +26,11 @@
 - steps to avoid removing code of each other 
 - token instead of password in github
 
-# == Description ==
+## Videos' Links
+- https://www.youtube.com/watch?v=MaR1k3Wj4Ec&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=3
+- https://www.youtube.com/watch?v=Y1vWHQaIoJY&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=4
+
+## Video Description
 - Git Udacity Course:
     https://www.udacity.com/course/version-control-with-git--ud123
 - Git commit style:
