@@ -1,4 +1,5 @@
 # == PE-Common-03 DB ==
+## Outlines
 - Why learn DB
 - SQLite 
 - DDL & DML
@@ -16,7 +17,10 @@
   - Normalization
   - Rest of DB Stanford courses
 
-# == Description ==
+## Video Link
+- https://www.youtube.com/watch?v=NTkkhBLMXfs&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=5
+
+## Video Description
 - online sqlite: https://sqliteonline.com
 - w3school: https://www.w3schools.com/sql/
 - telsko sql: https://www.youtube.com/playlist?list=PLsyeobzWxl7r4_oAwBFzPdMlgc0If72WK
