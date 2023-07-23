@@ -1,4 +1,5 @@
 # == PE-Common-01 Command line & Linux ==
+## Outlines
 - why command line & Linux
 - git bash in Windows
 - Linux
@@ -20,7 +21,9 @@
 
 - feedback on 1st video
 
-# description
+## Video Link
+- https://www.youtube.com/watch?v=-24UeOWSr-k&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=2
+## Video Description
 - git bash (windows): 
     https://git-scm.com/downloads
 - bash cheat sheet:
