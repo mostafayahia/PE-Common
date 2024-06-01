@@ -26,6 +26,6 @@
 - <<insert-video-link-here>
 
 ## Video Description
-- repository: 
-- download: https://code.visualstudio.com/download
-- docs: https://code.visualstudio.com/docs
+- Github Repository: https://github.com/mostafayahia/PE-Common/blob/Common-04
+- Download: https://code.visualstudio.com/download
+- Docs: https://code.visualstudio.com/docs
