@@ -16,6 +16,7 @@
   - comment/uncomment
   - uppercase
   - join lines
+  - delete line
 - Extensions
 - Search for equivalent shortcuts
 - Documentation
