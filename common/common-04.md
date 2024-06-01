@@ -3,7 +3,7 @@
 - Why vscode (opensource, memory)
 - vscode vs notepad++
 - Command: code .
--  Shortcuts:
+- Shortcuts:
   - navigate to file (ctrl + p)
   - search for command (ctrl + shift + p)
   - search in all files
