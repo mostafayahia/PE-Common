@@ -24,7 +24,7 @@
 - other IDE Intellij, Eclispe
 
 ## Video Link
-- <<insert-video-link-here>
+- https://m.youtube.com/watch?v=oIGoBB-N-_I&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=6&t=0s&pp=gAQBiAQB
 
 ## Video Description
 - Github Repository: https://github.com/mostafayahia/PE-Common/blob/Common-04
