@@ -1,4 +1,4 @@
-# == PE-Common-04 DB ==
+# == PE-Common-04 IDE ==
 ## Outlines
 - Why vscode (opensource, memory)
 - vscode vs notepad++
