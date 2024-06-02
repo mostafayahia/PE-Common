@@ -17,6 +17,7 @@
   - uppercase
   - join lines
   - delete line
+  - add line up & down
 - Extensions
 - Search for equivalent shortcuts
 - Documentation
