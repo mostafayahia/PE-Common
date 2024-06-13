@@ -1,0 +1,3 @@
+ID    Name   Age    Color
+1    Yahia    35    Gray
+2    Hashem    40    White
