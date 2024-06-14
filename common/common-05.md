@@ -19,7 +19,7 @@
 - Regex tutorial
 
 ## Video Link
-- <insert-link-here>
+- https://www.youtube.com/watch?v=AddkT2bFiG4
 
 ## Video Description
 - EDX Harvard CS50: https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science
