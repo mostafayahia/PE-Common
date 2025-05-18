@@ -25,8 +25,7 @@
 - other IDE Intellij, Eclispe
 
 ## Video Link
-- https://m.youtube.com/watch?v=oIGoBB-N-_I&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=6&t=0s&pp=gAQBiAQB
-
+- https://www.mediafire.com/file/qod81oj3urtqo2k/Screen_Recording_2024-06-01_at_3.52.17_PM.mov/file
 ## Video Description
 - Github Repository: https://github.com/mostafayahia/PE-Common/blob/Common-04
 - Download: https://code.visualstudio.com/download
