@@ -27,8 +27,8 @@
 - token instead of password in github
 
 ## Videos' Links
-- https://www.youtube.com/watch?v=MaR1k3Wj4Ec&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=3
-- https://www.youtube.com/watch?v=Y1vWHQaIoJY&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=4
+- https://www.mediafire.com/file/bim9bre2qflf0g2/Screen_Recording_2023-02-25_at_10.00.28_AM.mov/file
+- https://www.mediafire.com/file/kgpecqqe9iurkiy/Screen_Recording_2023-03-04_at_11.23.13_AM.mov/file
 
 ## Video Description
 - Git Udacity Course:
