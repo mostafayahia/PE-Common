@@ -18,7 +18,7 @@
   - Rest of DB Stanford courses
 
 ## Video Link
-- https://www.youtube.com/watch?v=NTkkhBLMXfs&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=5
+- https://www.mediafire.com/file/c1tgq63wrbupuzl/Screen_Recording_2023-06-26_at_6.27.48_PM.mov/file
 
 ## Video Description
 - online sqlite: https://sqliteonline.com
