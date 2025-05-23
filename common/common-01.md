@@ -21,8 +21,10 @@
 
 - feedback on 1st video
 
+## Youtube Link
+- https://www.youtube.com/watch?v=LROflQ9RL3A&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=1
 ## Video Link
-- https://www.youtube.com/watch?v=-24UeOWSr-k&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=2
+- https://www.mediafire.com/file/ob9gv6fxt2g3yue/Screen_Recording_2025-05-23_at_19.39.41.mov/file
 ## Video Description
 - git bash (windows): 
     https://git-scm.com/downloads
