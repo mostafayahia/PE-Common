@@ -12,7 +12,7 @@
   - cd
   - ls
   - man
-  - find
+  - find **(very powerful. please, check examples in the link in description)**
   - cat 
   - touch
   - echo
