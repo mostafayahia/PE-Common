@@ -20,6 +20,9 @@
 
 ## Video Link
 - https://www.mediafire.com/file/in6tajhilu7svqk/Screen_Recording_2024-06-14_at_12.29.26_AM.mov/file
+  
+## Youtube Link
+- https://www.youtube.com/watch?v=G0aoEWWeKbc&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=6
 
 ## Video Description
 - EDX Harvard CS50: https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science
