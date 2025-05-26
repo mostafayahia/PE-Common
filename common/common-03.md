@@ -20,6 +20,9 @@
 ## Video Link
 - https://www.mediafire.com/file/c1tgq63wrbupuzl/Screen_Recording_2023-06-26_at_6.27.48_PM.mov/file
 
+## Youtube Link
+- https://www.youtube.com/watch?v=dvsHin2nf4g&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=4
+
 ## Video Description
 - online sqlite: https://sqliteonline.com
 - w3school: https://www.w3schools.com/sql/
