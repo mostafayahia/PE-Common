@@ -13,8 +13,8 @@
 - Excel Filter
 - This is last/first video in this playlist
 
-## Video Link
-- https://www.youtube.com/watch?v=62qojiuq_H0&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=1
+## Youtube Video Link
+- https://www.youtube.com/watch?v=lQCitYpP6LA&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=7
 
 ## Video Description
 - typing: https://onlinetyping.org/typing-lessons/
