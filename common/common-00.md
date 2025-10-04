@@ -22,5 +22,5 @@
   - https://play.google.com/store/apps/details?id=me.mycake
   - https://play.google.com/store/apps/details?id=com.porolingo.econversation
   - https://play.google.com/store/apps/details?id=com.languagedrops.drops.international
-- Excalidraw: https://excalidraw.com/#json=cD4Tzxp1_ZgJ_Guyx-oj9,7IHCPU1NBN3IeX7EjVljCg
+- Excalidraw: https://excalidraw.com/#json=Z-QzzD7LraqKqjC-Con2V,jkVWNsZyINo_912Uspqtmw
 - Excel: https://docs.google.com/spreadsheets/d/1MGmRevwE_4INNs3J2QYUJf5SvrIogl-y4FHBJ1DL4fw
