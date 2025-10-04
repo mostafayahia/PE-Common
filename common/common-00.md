@@ -10,6 +10,7 @@
 - Search ChatGpt
 - Search Gemini
 - Excel Group by & Join
+- Excel Filter
 - This is last/first video in this playlist
 
 ## Video Link
