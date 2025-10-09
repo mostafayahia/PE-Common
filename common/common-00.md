@@ -10,7 +10,7 @@
 - Search ChatGpt
 - Search Gemini
 - Excel Group by & Join
-- Excel Filter
+- Excel Filter **(select column header to apply filter, in menu go to data -> create filter, press icon at end of column header to filter)**
 - This is last/first video in this playlist
 
 ## Download Vidoe Link
