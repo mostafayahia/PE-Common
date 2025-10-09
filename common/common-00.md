@@ -13,6 +13,9 @@
 - Excel Filter
 - This is last/first video in this playlist
 
+## Download Vidoe Link
+- https://www.mediafire.com/file/qwylu0t0p0thb3j/Screen+Recording+2025-10-04+at+16.23.34.mov/file
+
 ## Youtube Video Link
 - https://www.youtube.com/watch?v=lQCitYpP6LA&list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3&index=7
 
