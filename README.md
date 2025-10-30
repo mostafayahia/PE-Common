@@ -11,3 +11,5 @@ Feel free to agree/disagree with my point of view :)
 - [Regex & Learning Platform](https://github.com/mostafayahia/PE-Common/blob/Common-05/common/common-05.md)
 ## Playlist
 https://www.youtube.com/playlist?list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3
+## What's Next
+- [Learn Python (Telusko Channle)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
