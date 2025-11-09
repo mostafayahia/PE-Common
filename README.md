@@ -12,4 +12,5 @@ Feel free to agree/disagree with my point of view :)
 ## Playlist
 https://www.youtube.com/playlist?list=PLcn4VUbWre3W0IGyziooxOJpPb1m_Fmu3
 ## What's Next
+- [Java Section](https://github.com/mostafayahia/Java)
 - [Learn Python (Telusko Channel)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
